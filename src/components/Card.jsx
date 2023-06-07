@@ -37,7 +37,7 @@ const CardComp = ({data}) => {
 
                         <p onClick={() => { prevEp() }} style={{ color: "blue", textDecorationLine: "underline", cursor: "pointer" }}>Previous Episode</p>
                     </Card.Text>
-                    <Button variant="primary" onClick={()=>{navigate("/details",{state:{name:data.show.name,image:data.show.image.original,rating:data.show.rating.average,summary:data.show.summary,genres:data.show.genres,prev:data.show._links.previousepisode.href}})}}>Go somewhere</Button>
+                    <Button variant="primary" onClick={()=>{navigate("/details",{state:{name:data.show.name,image:data.show.image.original,rating:data.show.rating.average,summary:data.show.summary,genres:data.show.genres,prev:data.show._links.previousepisode.href}})}}>View Details</Button>
                 </Card.Body>
             </Card>
 
