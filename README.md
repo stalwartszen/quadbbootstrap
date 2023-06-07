@@ -14,19 +14,21 @@
   
 ## Laptop
 
-image.png
-image.png
-image.png
+![image](https://github.com/stalwartszen/showquad/assets/95701298/f5953017-4670-4cd1-af5a-ed48505a80b7)
+![image](https://github.com/stalwartszen/showquad/assets/95701298/8c886639-91f3-45fb-9848-d014286ee3c3)
+![image](https://github.com/stalwartszen/showquad/assets/95701298/3323a418-3f53-4f9d-97c6-fbb70b314fc6)
+![image](https://github.com/stalwartszen/showquad/assets/95701298/9b507a7e-6a4a-4a37-999b-bca80f31374b)
 
 ## Mobile
 
-image.png
-image.png
-image.png
+![image](https://github.com/stalwartszen/showquad/assets/95701298/9e9b9d61-af82-46b4-ba1f-9128d6c76c8d)
+![image](https://github.com/stalwartszen/showquad/assets/95701298/e93ff423-9706-48b8-ba10-f8357b286409)
+![image](https://github.com/stalwartszen/showquad/assets/95701298/e1070d24-e3f5-4834-abed-ceeedf880a66)
+![image](https://github.com/stalwartszen/showquad/assets/95701298/b068a309-85c4-44d2-a211-fd638569eed1)
 
 ## Tablet
 
-image.png
-image.png
-image.png
-image.png
+![image](https://github.com/stalwartszen/showquad/assets/95701298/a1811705-8e6b-40ff-9732-fa96155f0a87)
+![image](https://github.com/stalwartszen/showquad/assets/95701298/47dbbe19-de5d-4bc2-be28-fa0a535f088d)
+![image](https://github.com/stalwartszen/showquad/assets/95701298/84ae2055-ad8b-40e8-a1dd-f4c0cce79681)
+![image](https://github.com/stalwartszen/showquad/assets/95701298/a8f75ade-f7d0-437d-85e9-e06e3d252159)
