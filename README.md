@@ -12,3 +12,21 @@
     3) "Login" button in Navbar will open a modal to login user with specific details . if you directly click on login button in the modal dummy user will be stored in a localstorage for time saving purpose. If you want to change details you can do prior to that. 
     4) If user is not logged in user will ot able to book the show
   
+## Laptop
+
+image.png
+image.png
+image.png
+
+## Mobile
+
+image.png
+image.png
+image.png
+
+## Tablet
+
+image.png
+image.png
+image.png
+image.png
